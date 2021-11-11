@@ -3,28 +3,3 @@ IIP lab introduce
 this is basic file for github.io
 
 
-# 培优班论文报告
-
-## 自然语言处理
-### readability assessment
-1. 9月14日  15:30 , XXXX(报告人),  VENUE， [paper titile](paper orginal url ) , [PPT]( NLP/xxx.pptx) , [总结，讲解或摘要，或译文]( NLP/xxx.docx)
-
-### sentiment analysis
-1. 9月23日 19:00, XXXX（报告人） , 2021 AAAI,  [Human-level interpretable learning for aspect-based sentiment analysis](https://ojs.aaai.org/index.php/AAAI/article/view/17671/17478) , [PPT]( NLP/xxx.pptx), [总结，讲解或摘要，或译文]( NLP/xxx.docx)
-
-## 汉字生成
-
-1. 9月30日 19:00, XXXX（报告人） , VENUE， [ZiGAN Fine-grained Chinese Calligraphy Font Generation](paper orginal url ) , [PPT]( HanGen/xxx.pptx), [总结，讲解或摘要，或译文]( HanGen/xxx.docx)
-2. 10月21日 19:00, XXXX（报告人） , VENUE， [Handwriting Transformers](paper orginal url ) , [Handwriting TransformersPPT]( HanGen/xxx.pptx), [总结，讲解或摘要，或译文]( HanGen/xxx.docx)
-3. 10月21日 20:00, XXXX（报告人） , VENUE， [MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation](https://arxiv.org/abs/1902.04049) , [MultiResUNetPPT]( HanGen/xxx.pptx), [总结，讲解或摘要，或译文]( HanGen/xxx.docx)
-4. 10月28日 19:00, 汪叶飞 , VENUE， [paint transformer: feed forward neural painting with stroke prediction](https://arxiv.org/abs/2108.03798) , [paint transformerPPT]( HanGen/xxx.pptx), [paint transformer总结，讲解或摘要，或译文]( HanGen/xxx.docx)
-
-## 图像处理
-
-### 遥感
-
-#### hyperspectral
-
-1. 10月14日 19:00, XXXX（报告人） , VENUE， [Non-local Meets Global: An Integrated Paradigm for Hyperspectral Denoising](paper orginal url ) , [PPT]( CV/xxx.pptx), [总结，讲解或摘要，或译文]( CV/xxx.docx)
-2. 11月4日 19:00, XXXX（报告人） , VENUE， [Guided Deep Decoder: Unsupervised Image Pair Fusion](paper orginal url ) , [PPT]( CV/xxx.pptx), [总结，讲解或摘要，或译文]( CV/xxx.docx)
-
